@@ -19,4 +19,3 @@ Datasets que planejamos utilizar:
 - https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
 - https://www.kaggle.com/datasets/ravineesh/soundtracks-of-top-250-imdb-movies-and-tv-series
 - https://gist.github.com/rioto9858/ff72b72b3bf5754d29dd1ebf898fc893
-- 
