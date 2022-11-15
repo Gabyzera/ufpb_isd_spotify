@@ -12,7 +12,9 @@ Perguntas:
 
 - Qual a musica mais foi usada nas trilhas sonoras de cada genero
 
-- Qual genero tem menos uso de música
+- Qual gênero menos escutado?
+
+- Qual o reflexo da Pandemia do Covid-19 no histórico do sotify? 
 
 Datasets que planejamos utilizar:
 
