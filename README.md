@@ -4,15 +4,19 @@ Nomes: Anna Carolina Carvalho (@httpscarol), Beatriz Vitório Melo (@beatrizzzzz
 
 Perguntas:
 
-- Das músicas que aparecem tanto no top 200 do spotify quanto nas trilhas sonoras, quais estavam no top 200 do spotify antes do filme lançar e quais só subiram para essa posição apois o lançamento?
+- Quanto a Liveness (O quanto as músicas são ou parecem ser cantadas ao vivo) das músicas mudou ao longo do tempo?
 
-- Quais gêneros de filme tem as músicas mais populares?
+- E quanto ao tamanho das músicas? Realmente diminuiu?
+
+- Quais artistas tem as músicas mais longas? E mais curtas?
 
 - Qual ano os filmes aparentam ter mais influência nos hits do spotify?
 
-- Qual a musica mais foi usada nas trilhas sonoras de cada genero
+- Qual a musica mais foi usada nas trilhas sonoras de cada genero.
 
-- Quais os gêneros menos escutados?
+- Relação popularidade e gênero.
+
+- Qual ano tem mais musicas populares?
 
 Datasets que planejamos utilizar:
 
