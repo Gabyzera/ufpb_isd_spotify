@@ -1,6 +1,6 @@
 # projetoicd
 
-Nomes: Anna Carolina Carvalho (@httpscarol), Beatriz Vitório Melo (@beatrizzzzz), Gabrielly Silva Batista (@Gabyzera).
+Nomes: Anna Carolina Carvalho (@cybercarol), Beatriz Vitório Melo (@beatrizzzzz), Gabrielly Silva Batista (@Gabyzera).
 
 Perguntas:
 
